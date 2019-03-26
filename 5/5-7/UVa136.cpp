@@ -9,7 +9,7 @@ const int coeff[3] = {2, 3, 5};
 
 int main()
 {
-    priority_queue(LL, vector<LL>, greater<LL> > pq;
+    priority_queue<LL, vector<LL>, greater<LL> > pq;
     set<LL> s;
     pq.push(1);
     s.insert(1);
